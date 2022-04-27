@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giudicellisilva&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-<div>
+<div margin-top="20px">
   <a  href="https://www.linkedin.com/in/giudicelli-silva-48b339215/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-   badge&logo=l10pxinkedin&logoColor=white" target="_blank"></a> 
 </div>
 <!--
