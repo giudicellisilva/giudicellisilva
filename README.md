@@ -1,7 +1,7 @@
 ### Hi there, i'm Giudcicelli 👋
 <div align="center">
   <a href="https://github.com/giudicellielias">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giudicellielias&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giudicellisilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giudicellisilva&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <!--
