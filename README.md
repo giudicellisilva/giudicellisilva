@@ -4,10 +4,11 @@
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giudicellisilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giudicellisilva&layout=compact&langs_count=7&theme=dark"/> -->
 </div>
-  
+<!--  
 <div margin-top="20px">
   <a  href="https://www.linkedin.com/in/giudicelli-silva-48b339215/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-   badge&logo=l10pxinkedin&logoColor=white" target="_blank"></a> 
 </div>
+-->
 <!--
 Here are some ideas to get you started:
 
